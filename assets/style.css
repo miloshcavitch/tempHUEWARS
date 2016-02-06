@@ -1,0 +1,13 @@
+canvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+/*http://codepen.io/anon/pen/RrYdpa --- main character
+
+*/
+#blackbox {
+  background-color: #FF0000;
+}
